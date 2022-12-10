@@ -12,8 +12,6 @@
 
 <br/>  
 
-<table</table>  
-
 <br/>  
 
 <div align="center">  
