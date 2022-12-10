@@ -7,12 +7,7 @@
 
 
 ### My name is Onur. I live in Turkey and I'm 14 years old.  
-  
-  
-
-,
-
-<br/>  
+ 
 
 
 ## Github Stats  
